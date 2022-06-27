@@ -32,7 +32,7 @@
 <p align="left"><a href="https://www.instagram.com/charly0din" target="_blank"> <img src="https://img.icons8.com/ios-glyphs/30/EBEBEB/instagram-new.png" alt="instagramCharlyodin" width="40" height="40"/> </a>
 </p>
 
-<p align="center"><a href="https://icons8.com/icon/21111/twitter" target="_blank"> <img src="https://twitter.com/charlyodin" alt="TwitterCharlyodin" width="40" height="40"/> </a>
+<p align="left"><a href="https://twitter.com/charlyodin" target="_blank"> <img src="https://img.icons8.com/office/16/000000/twitter.png" alt="TwitterCharlyodin" width="40" height="40"/> </a>
 </p>
 
 ## Funciones
