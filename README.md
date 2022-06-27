@@ -29,10 +29,10 @@
   
   El uso de estos codigos es libre pero la instalacion, configuracion y personalizacion de este lleva un costo el cual puedes consultarlo en cualquiera de mis redes.
   
-<p align="left"><a href="https://www.instagram.com/charly0din" target="_blank"> <img src="https://img.icons8.com/office/16/000000/instagram-new.png" alt="instagramCharlyodin" width="40" height="40"/> </a>
+<p align="left"><a href="https://www.instagram.com/charly0din" target="_blank"> <img src="https://img.icons8.com/office/40/000000/instagram-new.png" alt="instagramCharlyodin" width="40" height="40"/> </a>
 </p>
 
-<p align="left"><a href="https://twitter.com/charlyodin" target="_blank"> <img src="https://img.icons8.com/office/16/000000/twitter.png" alt="TwitterCharlyodin" width="40" height="40"/> </a>
+<p align="left"><a href="https://twitter.com/charlyodin" target="_blank"> <img src="https://img.icons8.com/office/40/000000/twitter.png" alt="TwitterCharlyodin" width="40" height="40"/> </a>
 </p>
 
 ## Funciones
