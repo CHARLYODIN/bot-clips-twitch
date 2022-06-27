@@ -69,4 +69,4 @@ La instalacion, configuracion y personalizacion de este bot lleva un precio fijo
 
 ## Desarrollador
 
-| [<img src="[https://avatars.githubusercontent.com/u/37356058?v=4]" width=115><br><sub>CHARLYODIN</sub>](https://github.com/charlyodin) |
+| [<img src="[[https://avatars.githubusercontent.com/u/37356058?v=4](https://cdn.discordapp.com/avatars/404807539398672397/d2134657b72ebf31de7c9f957dfbc099.png?size=4096)]" width=115><br><sub>CHARLYODIN</sub>](https://github.com/charlyodin) |
