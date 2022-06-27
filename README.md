@@ -27,11 +27,13 @@
 <p align="justify">
   El codigo se creo para incitar a crear clips en twitch, darle uso a el canal de clips en discord y facilitar el envio de los clips desde twitch sin tener que abrir discord.
   
-  El uso de estos codigos es libre pero la instalacion, configuracion y personalizacion de este lleva un costo el cual puedes consultarlo em cualquiera de mis redes.
+  El uso de estos codigos es libre pero la instalacion, configuracion y personalizacion de este lleva un costo el cual puedes consultarlo en cualquiera de mis redes.
   
 <p align="left"><a href="https://www.instagram.com/charly0din" target="_blank"> <img src="https://img.icons8.com/ios-glyphs/30/EBEBEB/instagram-new.png" alt="instagramCharlyodin" width="40" height="40"/> </a>
 </p>
 
+<p align="center"><a href="https://icons8.com/icon/21111/twitter" target="_blank"> <img src="https://twitter.com/charlyodin" alt="TwitterCharlyodin" width="40" height="40"/> </a>
+</p>
 
 ## Funciones
 
