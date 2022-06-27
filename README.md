@@ -58,7 +58,7 @@
 
 ## lenguajes utilizados
 
-<a href="https://www.javascript.com" target=_blank> <img src="https://img.icons8.com/color/48/EBEBEB/javascript--v1.png" alt="java" width="40" height="40"/></a> 
+<a href="https://www.javascript.com" target=_blank> <img src="https://img.icons8.com/fluency/48/000000/javascript.png" alt="java" width="40" height="40"/></a> 
 
 ###
 
