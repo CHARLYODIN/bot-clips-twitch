@@ -1,0 +1,18 @@
+{
+  "discordWebhook":{
+    "type": "text",
+    "label": "anotar aqui el webhook que creaste en Discord",
+    "value" : " "
+  },
+    "commandName":{
+    "type": "text",
+    "label": "anota el nombre del comando para enviar el mensaje",
+    "value" : " "
+  },
+    "botName":{
+    "type": "text",
+    "label": "anota el nombre de el 'bot' que enviara el mensaje en discord",
+    "value" : " "
+  }
+  
+}
