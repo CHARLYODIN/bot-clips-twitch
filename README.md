@@ -12,7 +12,7 @@
 
 - [Funciones](#funciones)
 
-- [Como se usa](#Uso)
+- [Como se ve](#Ejemplo)
 
 - [lenguajes](#lenguajes-utilizados)
 
@@ -26,6 +26,7 @@
 
 <p align="justify">
   El codigo se creo para incitar a crear clips en twitch, darle uso a el canal de clips en discord y facilitar el envio de los clips desde twitch sin tener que abrir discord.
+  No es un bot donde puedas hostear, se creo con este fin para mantenerlo local, privado, seguro, personalizado y no tener que estar pagando planes de host.
   
   El uso de estos codigos es libre pero la instalacion, configuracion y personalizacion de este lleva un costo el cual puedes consultarlo en cualquiera de mis redes.
   
@@ -45,7 +46,7 @@
 
 :heavy_check_mark: `Funcion 4:` Tener un control y organizacion sobre los clips
 
-## Uso
+## Ejemlpo
 
 <div align="center">
 
