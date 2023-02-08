@@ -1,6 +1,6 @@
 # bot-clips-twitch
 
-![logo BotClips](https://iconos8.es/icon/H4Fo5q6VUEj1/bot---ai)
+![logo BotClips](https://cdn.discordapp.com/attachments/989554678050222160/1072712071541686272/external-bot-artificial-intelligence-kiranshastry-lineal-kiranshastry.png)
 
 <hr>
 
@@ -30,10 +30,10 @@
   
   El uso de estos codigos es libre pero la instalacion, configuracion y personalizacion de este lleva un costo el cual puedes consultarlo en cualquiera de mis redes.
   
-<p align="left"><a href="https://www.instagram.com/charly0din" target="_blank"> <img src="https://iconos8.es/icon/ZRiAFreol5mE/instagram" alt="instagramCharlyodin" width="40" height="40"/> </a>
+<p align="left"><a href="https://www.instagram.com/charly0din" target="_blank"> <img src="https://iconos8.es/icon/32292/instagram" alt="instagramCharlyodin" width="40" height="40"/> </a>
 </p>
 
-<p align="left"><a href="https://twitter.com/charlyodin" target="_blank"> <img src="https://iconos8.es/icon/xWVjuc9hryql/twitter" alt="TwitterCharlyodin" width="40" height="40"/></a>
+<p align="left"><a href="https://twitter.com/charlyodin" target="_blank"> <img src="https://iconos8.es/icon/437/twitter" alt="TwitterCharlyodin" width="40" height="40"/></a>
 </p>
 
 ## Funciones
