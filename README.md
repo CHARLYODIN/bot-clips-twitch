@@ -14,13 +14,13 @@
 
 - [Ejemplo](#ejemplo)
 
-- [lenguajes](#lenguajes-utilizados)
+- [Lenguajes](#lenguajes-utilizados)
 
 - [Acceso al proyecto](#acceso-al-proyecto)
 
 - [Como instalarlo](#como-instalarlo)
 
-- [desarrollador](#desarrollador)
+- [Desarrollador](#desarrollador)
 
 ## Descripcion del proyecto 
 
