@@ -30,10 +30,10 @@
   
   El uso de estos codigos es libre pero la instalacion, configuracion y personalizacion de este lleva un costo el cual puedes consultarlo en cualquiera de mis redes.
   
-<p align="left"><a href="https://www.instagram.com/charly0din" target="_blank"> <img src="https://iconos8.es/icon/32292/instagram" alt="instagramCharlyodin" width="40" height="40"/> </a>
+<p align="left"><a href="https://www.instagram.com/charly0din" target="_blank"> <img src="https://cdn.discordapp.com/attachments/989554678050222160/1072713010306633728/instagram-new.png" alt="instagramCharlyodin" width="40" height="40"/> </a>
 </p>
 
-<p align="left"><a href="https://twitter.com/charlyodin" target="_blank"> <img src="https://iconos8.es/icon/437/twitter" alt="TwitterCharlyodin" width="40" height="40"/></a>
+<p align="left"><a href="https://twitter.com/charlyodin" target="_blank"> <img src="https://cdn.discordapp.com/attachments/989554678050222160/1072713298623090819/twitter.png" alt="TwitterCharlyodin" width="40" height="40"/></a>
 </p>
 
 ## Funciones
@@ -68,7 +68,7 @@ Tu puedees acceder al [codigo](https://github.com/CHARLYODIN/bot-clips-twitch) y
 
 ## Como instalarlo
 
-La instalacion, configuracion y personalizacion de este bot lleva un precio fijo permanente y es actualizable en caso de que haya alguna modificacion, puedes contactarme en cualquiera de mis [redes](https://linktr.ee/CHARLYODIN) para resolver tus dudas.
+La instalacion, configuracion y personalizacion de este bot lleva un precio y es actualizable en caso de que haya alguna modificacion, puedes contactarme en cualquiera de mis [redes](https://linktr.ee/CHARLYODIN) para resolver tus dudas.
 
 ## Desarrollador
 
