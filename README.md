@@ -4,21 +4,21 @@
 
 <hr>
 
-<p align="left"><a href="https://bit.ly/charlyodin"><img src="https://img.shields.io/badge/version-2.0-5aff59?style=flat&link=https://bit.ly/3OeOn57" alt="version" /></a></p>
+<p align="center"><a href="https://bit.ly/charlyodin"><img src="https://img.shields.io/badge/version-2.0-5aff59?style=flat&link=https://bit.ly/3OeOn57" alt="version" /></a></p>
 
 ### Indice 
 
-- [Descripcion del proyecto](#Descripcion-del-proyecto)
+- [Descripcion del proyecto](#descripcion-del-proyecto)
 
 - [Funciones](#funciones)
 
-- [Como se ve](#Ejemplo)
+- [Ejemplo](#ejemplo)
 
 - [lenguajes](#lenguajes-utilizados)
 
-- [Acceso al proyecto](#Acceso-al-proyecto)
+- [Acceso al proyecto](#acceso-al-proyecto)
 
-- [Como instalarlo](#Como-instalarlo)
+- [Como instalarlo](#como-instalarlo)
 
 - [desarrollador](#desarrollador)
 
@@ -58,7 +58,7 @@
 
 ## lenguajes utilizados
 
-<a href="https://www.javascript.com" target=_blank> <img src="https://img.icons8.com/fluency/48/000000/javascript.png" alt="java" width="40" height="40"/></a> 
+<a href="https://www.javascript.com" target=_blank> <img src="https://img.icons8.com/fluency/48/000000/javascript.png" alt="java" width="40px" height="40px"/></a> 
 
 ###
 
@@ -68,8 +68,9 @@ Tu puedees acceder al [codigo](https://github.com/CHARLYODIN/bot-clips-twitch) y
 
 ## Como instalarlo
 
-La instalacion, configuracion y personalizacion de este bot lleva un precio y es actualizable en caso de que haya alguna modificacion, puedes contactarme en cualquiera de mis [redes](https://linktr.ee/CHARLYODIN) para resolver tus dudas.
+La instalacion, configuracion y personalizacion de este bot tiene un costo y se puede modificar al gusto del cliente, puedes contactarme en cualquiera de mis [redes](https://linktr.ee/CHARLYODIN).
 
 ## Desarrollador
 
-| [<img src="https://cdn.discordapp.com/avatars/404807539398672397/8ad1b09ad49b1fb97c4d8455f636cead.png?size=1024" width=115><br><sub>CHARLYODIN</sub>](https://github.com/charlyodin) |
+[<img src="https://cdn.discordapp.com/avatars/404807539398672397/8ad1b09ad49b1fb97c4d8455f636cead.png?size=1024" width="70px" height="70px">](https://github.com/charlyodin)
+<p align="left"><sub>CHARLYODIN</sub></p>
