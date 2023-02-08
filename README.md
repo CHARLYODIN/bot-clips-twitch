@@ -1,10 +1,10 @@
 # bot-clips-twitch
 
-![logo BotClips](https://images.png)
+![logo BotClips](https://iconos8.es/icon/H4Fo5q6VUEj1/bot---ai)
 
 <hr>
 
-<p align="left"><a href="https://bit.ly/3OeOn57"><img src="https://img.shields.io/badge/version-2.0-5aff59?style=flat&link=https://bit.ly/3OeOn57" alt="version" /></a></p>
+<p align="left"><a href="https://bit.ly/charlyodin"><img src="https://img.shields.io/badge/version-2.0-5aff59?style=flat&link=https://bit.ly/3OeOn57" alt="version" /></a></p>
 
 ### Indice 
 
@@ -30,10 +30,10 @@
   
   El uso de estos codigos es libre pero la instalacion, configuracion y personalizacion de este lleva un costo el cual puedes consultarlo en cualquiera de mis redes.
   
-<p align="left"><a href="https://www.instagram.com/charly0din" target="_blank"> <img src="https://img.icons8.com/office/40/000000/instagram-new.png" alt="instagramCharlyodin" width="40" height="40"/> </a>
+<p align="left"><a href="https://www.instagram.com/charly0din" target="_blank"> <img src="https://iconos8.es/icon/ZRiAFreol5mE/instagram" alt="instagramCharlyodin" width="40" height="40"/> </a>
 </p>
 
-<p align="left"><a href="https://twitter.com/charlyodin" target="_blank"> <img src="https://img.icons8.com/office/40/000000/twitter.png" alt="TwitterCharlyodin" width="40" height="40"/> </a>
+<p align="left"><a href="https://twitter.com/charlyodin" target="_blank"> <img src="https://iconos8.es/icon/xWVjuc9hryql/twitter" alt="TwitterCharlyodin" width="40" height="40"/></a>
 </p>
 
 ## Funciones
@@ -72,4 +72,4 @@ La instalacion, configuracion y personalizacion de este bot lleva un precio fijo
 
 ## Desarrollador
 
-| [<img src="https://cdn.discordapp.com/avatars/404807539398672397/d2134657b72ebf31de7c9f957dfbc099.png?size=4096" width=115><br><sub>CHARLYODIN</sub>](https://github.com/charlyodin) |
+| [<img src="https://cdn.discordapp.com/avatars/404807539398672397/8ad1b09ad49b1fb97c4d8455f636cead.png?size=1024" width=115><br><sub>CHARLYODIN</sub>](https://github.com/charlyodin) |
