@@ -46,7 +46,7 @@
 
 :heavy_check_mark: `Funcion 4:` Tener un control y organizacion sobre los clips
 
-## Ejemlpo
+## Ejemplo
 
 <div align="center">
 
